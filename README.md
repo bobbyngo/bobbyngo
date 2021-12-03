@@ -3,7 +3,7 @@
 #### Software Engineering Student 💻
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyngo&hide=html,css,ejs&langs_count=10&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyngo&hide=html,css,ejs&langs_count5&theme=radical" />
 </p>
 
 
