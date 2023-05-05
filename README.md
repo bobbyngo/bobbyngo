@@ -1,7 +1,7 @@
 ### Bobby Ngo
 #### Software Engineering Student at Carleton University 💻
 - 💸 Currently an intern at [RBC Investor & Treasury Services](https://www.rbcits.com/en/)
-- 🔐 Previous an intern at [Entrust](https://www.entrust.com/) on [Identity Enterprise](https://www.entrust.com/digital-security/identity-and-access-management/products/identity-enterprise)
+- 🔐 Previously an intern at [Entrust](https://www.entrust.com/) on [Identity Enterprise](https://www.entrust.com/digital-security/identity-and-access-management/products/identity-enterprise)
 - ❄️ Previously an intern at [Snow Software](https://www.snowsoftware.com/) on [Mitigated Disaster](https://www.snowsoftware.com/products/snow-commander/)
 #### Looking for Summer 2024 New Grads job
 [Email](mailto:ngohuugiabao8980@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bao-bobby-ngo/) 
