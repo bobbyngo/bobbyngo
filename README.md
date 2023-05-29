@@ -6,9 +6,9 @@
 #### Looking for Summer 2024 New Grads job
 [Email](mailto:ngohuugiabao8980@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bao-bobby-ngo/) 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyngo&hide=html,css,ejs,purebasics&langs_count5&theme=radical&PAT_1" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bobbyngo&hide=html,css,ejs,purebasics&theme=radical&langs_count6"/>
+</p> -->
 
 
 <!--
